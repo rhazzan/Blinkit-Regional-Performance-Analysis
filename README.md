@@ -2,6 +2,9 @@
 Retail sales analysis using Power BI to evaluate product performance, pricing, and outlet efficiency. The dashboard highlights key revenue drivers across categories, outlet sizes, and locations, supporting data-driven decisions on product mix, pricing, and expansion strategy.
 ## Project Objective
 The objective of this project is to visualize how sales and orders perform across different outlets and item categories using the Blinkit Dashboard, while adhering strictly to Blinkit’s brand theme and color scheme.
+
+<img width="1180" height="657" alt="Image" src="https://github.com/user-attachments/assets/bf978e84-f591-409f-915c-781ad4f46b82" />
+
 ## Data Cleaning & Preparation
 #### Item Visibility:
 Item visibility values recorded as 0% were treated as missing data rather than true absence of shelf space, as zero visibility is unrealistic in an operational retail environment. These values were handled during data cleaning to avoid distortion of visibility-related insights.
